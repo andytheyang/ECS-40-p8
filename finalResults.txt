@@ -1,0 +1,8 @@
+Don't worry about the core dumps while the operation tester is running.
+Scores from p8 for Yang,Andy 
+Addresses used: achyang@ucdavis.edu  
+Style: 8 out of 8
+Design: 11 out of 11
+Operation: 9 out of 11
+Warnings (subtracted from design down to zero design score): 0
+Total: 28 out of 30.
